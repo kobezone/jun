@@ -8,7 +8,7 @@
   > 4. ES6 babel ([ES6 语法糖](http://es6.ruanyifeng.com/#docs/module) 和[bebel](http://babeljs.io/)转化为可执行的ES5)
   > 5. webpack (项目构建打包发布工具)[webpack](http://webpack.github.io/docs/)
   > 6. [mint ui](http://mint-ui.github.io/docs/#!/zh-cn) vue组件库  类型的还有(vux sui等)
-  > 7. eslint (部分文件约束规范)
+  > 7. eslint (部分文件约束规范)in
 
 ### 安装
 项目地址：（使用`git clone`）
