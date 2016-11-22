@@ -19,10 +19,9 @@ var v8 =require('v8')
 
 
 //node
-//node  aa.js  1>info.txt  (1´ú±íÖØ¶¨ÏòÊä³öÁ÷µ½ info.txt)
+//node  aa.js  1>info.txt  (1ï¿½ï¿½ï¿½ï¿½ï¿½Ø¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ info.txt)
 util.log("aaaaaaaa");
 // console.log(util);
 console.log(v8);
 var aa = v8.getHeapStatistics();
 console.log(aa);
-
